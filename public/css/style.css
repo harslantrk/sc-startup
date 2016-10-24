@@ -1,0 +1,31 @@
+.afterclick {
+    background-color: #3c8dbc;
+    color: #FFF;
+    border-color: #FFF;
+}
+.afterclick:hover {
+    background-color: #3c8dbc;
+    color: #FFF;
+    border-color: #FFF;
+}
+.afterclick:visited {
+    background-color: #3c8dbc;
+    color: #FFF;
+    border-color: #FFF;
+}
+.afterclick:active {
+    background-color: #3c8dbc;
+    color: #FFF;
+    border-color: #FFF;
+}
+.afterclick:focus {
+    background-color: #3c8dbc;
+    color: #FFF;
+    border-color: #FFF;
+}
+.cropContainerHeader {
+    width: 400px;
+    height: 100px;
+    border-radius:50% !important;
+    position:relative; /* or fixed or absolute */
+}
